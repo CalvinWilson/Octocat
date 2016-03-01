@@ -1,0 +1,50 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.saritocat img {
+	width: 400px;
+	float: left;
+	border: 1px solid black;
+	margin: 10px;
+}
+
+.carlostocat img {
+	width: 400px;
+	border: 1px solid black;
+	float: left;
+	margin: 10px;
+}
+
+.topguntocat img {
+	width: 400px;
+	border: 1px solid black;
+	float: left;
+	margin: 10px;
+}
+
+.authors img {
+	width: 50px;
+	position: relative;
+	left: 275px;
+	bottom: 20px;
+}
+
+li {
+	list-style-type:none;
+	float: left;
+}
+
+.image-caption {
+	text-decoration: underline;
+}
+
+.image-number {
+	float: left;
+	padding-left: 10px;
+	padding-right: 155px
+}
